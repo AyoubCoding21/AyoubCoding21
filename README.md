@@ -2,3 +2,5 @@ Hi, I am Ayoub Coding, I am 11 years old, I a intermediate->advenced in Python a
 
 Email : ayoubcoding56@gmail.com
 Phone number : +212690970142
+
+I recently participated in the Google Devfest'22 at Agadir last month.
