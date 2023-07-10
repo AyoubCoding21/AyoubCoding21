@@ -5,3 +5,5 @@ Email : ayoubprogramming95@gmail.com
 Phone number : +212690970142
 
 I recently participated in the Google Devfest'22 at Agadir In December 2022.
+
+Got interviewed by my local press.
