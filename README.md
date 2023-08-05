@@ -7,10 +7,17 @@ Phone number : +212690970142
 I recently participated in the Google Devfest'22 at Agadir In December 2022.
 
 Links for some press videos: 
+
 https://youtu.be/sYEOMAf2S64 
+
 https://youtu.be/U7ig1ratjt0 
+
 https://youtu.be/wZCSW8BvkoY 
+
 https://youtu.be/CtdZfveCJ00 
+
 https://youtu.be/RAEF77m_xOw 
+
 https://youtu.be/yeC5RtG9ftQ 
+
 https://youtu.be/Ktg71bm7qM0
