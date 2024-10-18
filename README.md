@@ -4,9 +4,7 @@ Hi, I am Ayoub Lakrad, I am intermediate->advanced in Python and beginner->inter
 
 Email : ayoubprogramming96@gmail.com
 
-Phone number : +212690970142
-
-I recently participated in the Google Devfest'22 at Agadir In December 2022.
+I participated in the Google Devfest'22 at Agadir In December 2022.
 
 # Most used programming languages
 ![test](https://github-readme-stats.vercel.app/api?username=AyoubCoding21&show_icons=true&theme=transparent&rank_icon=percentile)
