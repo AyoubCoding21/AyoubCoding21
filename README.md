@@ -18,11 +18,9 @@ Discord : rk3588x
 
 Straw page : https://ayoubcoding.straw.page
 
-I participated in the Google Devfest'22 at Agadir In December 2022.
+Spacehey : https://spacehey.com/0xdeadbeef_ayoub
 
-# Most used programming languages
-![test](https://github-readme-stats.vercel.app/api?username=AyoubCoding21&show_icons=true&theme=transparent&rank_icon=percentile)
-![test](https://github-readme-stats.vercel.app/api/top-langs/?username=AyoubCoding21&layout=donut&theme=transparent)
+I participated in the Google Devfest'22 at Agadir In December 2022.
 
 # Contribution Chart
 <picture>
