@@ -4,7 +4,7 @@ Hi, I am Ayoub Lakrad.
 
 ***Skills :***
 
-**Programming languages :** C/C++, Assembly, Python, Bash, React, Svelte.
+**Programming languages :** C/C++, Assembly, Python, Bash, React, Svelte, Other things
 
 **Hosting and database:** Vercel, FireBase, PocketBase, MySQL.
 
@@ -12,7 +12,7 @@ Hi, I am Ayoub Lakrad.
 
 ***Socials :***
 
-Email : ayoubprogramming96@gmail.com
+Email : ayoubprogramming96@outlook.com
 
 Discord : rk3588x
 
